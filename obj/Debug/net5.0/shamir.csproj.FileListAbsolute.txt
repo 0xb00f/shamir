@@ -1,0 +1,16 @@
+/home/boof/shamir/obj/Debug/net5.0/shamir.csproj.AssemblyReference.cache
+/home/boof/shamir/obj/Debug/net5.0/shamir.GeneratedMSBuildEditorConfig.editorconfig
+/home/boof/shamir/obj/Debug/net5.0/shamir.AssemblyInfoInputs.cache
+/home/boof/shamir/obj/Debug/net5.0/shamir.AssemblyInfo.cs
+/home/boof/shamir/obj/Debug/net5.0/shamir.csproj.CoreCompileInputs.cache
+/home/boof/shamir/bin/Debug/net5.0/shamir
+/home/boof/shamir/bin/Debug/net5.0/shamir.deps.json
+/home/boof/shamir/bin/Debug/net5.0/shamir.runtimeconfig.json
+/home/boof/shamir/bin/Debug/net5.0/shamir.runtimeconfig.dev.json
+/home/boof/shamir/bin/Debug/net5.0/shamir.dll
+/home/boof/shamir/bin/Debug/net5.0/ref/shamir.dll
+/home/boof/shamir/bin/Debug/net5.0/shamir.pdb
+/home/boof/shamir/obj/Debug/net5.0/shamir.dll
+/home/boof/shamir/obj/Debug/net5.0/ref/shamir.dll
+/home/boof/shamir/obj/Debug/net5.0/shamir.pdb
+/home/boof/shamir/obj/Debug/net5.0/shamir.genruntimeconfig.cache
