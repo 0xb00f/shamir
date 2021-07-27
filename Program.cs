@@ -10,11 +10,11 @@ namespace shamir
 		BigInteger secret = new BigInteger(666);
 		Console.WriteLine("secret is {0}",secret);
 		
-		int threshold = 4;
+		int threshold = 12;
 		BigInteger prime = BigInteger.Parse("130922996888451848749185915881459813412881");
 		ShamirSecretSharing sss = new ShamirSecretSharing(threshold,prime,secret);	
 		
-		int n_shares = 5;
+		int n_shares = 12;
 		Share[] shares = sss.GenerateShares(n_shares);
 		
 		BigInteger recovered = sss.Interpolate(shares);
